@@ -8,7 +8,7 @@ is most effective in slowing the growth of tumors.
 * Microsoft Excel
 * Juypter Notebook
 
-## Getting Started
+### Getting Started
 
 * Download the data
 * Download the Python file
@@ -18,7 +18,7 @@ is most effective in slowing the growth of tumors.
 After downloading the data and the code, one should be able to run the code by opening up the code in Juypter Notebook and running it in the environment. Notice that the
 data used is combined early on from the two CSV files. 
 
-## License
+### License
 
 This project is licensed under the MIT License
 
